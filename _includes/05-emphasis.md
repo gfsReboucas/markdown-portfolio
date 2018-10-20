@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Bold** in Portuguese is _**Negrito**_.
+
+_Italic_ in Portuguese is **_Itálico_**.
